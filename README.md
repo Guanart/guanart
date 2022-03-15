@@ -1,5 +1,5 @@
 ## 🚀 whoami
-Hi! I'm Gonzalo (@Guanart). I'm studying Bachelor's Degree in Information Systems, and I'm an autodidact self-taught of Cybersecurity and Web Development.
+Hi! I'm Gonzalo (@Guanart). I'm studying Bachelor's Degree in Information Systems, and I'm an self-taught Cybersecurity and Web Development student.
 I'm currently learning Python and JavaScript, and I'm working with Django, Flask and NodeJS/Express Frameworks for backend and API development.
 
 ## 🎯 Objectives
