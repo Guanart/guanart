@@ -33,7 +33,7 @@ Networking
 
 Programming
 - Python and Bash Scripting
-- Django, Flask and NodeJS/Express Web Backend Development
+- Django, Django REST Framework, and NodeJS/Express Web Backend Development
 - PHP common vulnerabilities and code analysis
 - Experiencie with Selenium (Web Scraping and automation) and Scapy
 
